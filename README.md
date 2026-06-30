@@ -21,9 +21,9 @@ Current Mission:
 
 🤖 Diving into Artificial Intelligence
 
-Always Learning.<br>
-Always Building.<br>
-Always Moving Forward.
+✍🏻 Always Learning.<br>
+👨🏻‍💻 Always Building.<br>
+🛬 Always Moving Forward.
 
 ```python
 class Quantoris:
@@ -39,15 +39,6 @@ class Quantoris:
     return "Always Learning. Always Building."
 developer = Quantoris()
 ```
-
-## 🚀 Current Focus
-
-- Building WSS Platform
-- Learning Advanced Django
-- Exploring Full-Stack Development
-- Studying Cybersecurity Fundamentals
-- Diving into AI & Machine Learning
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
